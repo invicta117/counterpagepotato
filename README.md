@@ -4,3 +4,4 @@ This is a small projet that corresponds to a page which the user can interact wi
 
 The project is hosted at the following address:
 
+https://invicta117.github.io/counterpagepotato/
